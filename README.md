@@ -13,15 +13,16 @@ Además, se incorpora una **perspectiva de género** para analizar la representa
 
 ### 🧹 2. **Limpieza y preparación**
 - Los datos extraídos se limpiaron y transformaron en **Python**.
-- Se corrigieron duplicados, se homogenizaron géneros y se agruparon por año/artista.
+- Se corrigieron duplicados, se homogeneizaron géneros y se agruparon por año/artista.
 
 ### 🗃️ 3. **Base de datos MySQL**
-- Se creó un modelo relacional con varias tablas (artistas, canciones, estadísticas).
+- Se creó un modelo relacional con varias tablas (artistas, canciones + estadísticas).
 - Se migraron los datos procesados desde Python a **MySQL** usando conectores (`mysql.connector`).
 
 ### 🔄 4. **Conexión Python-MySQL**
 - Se automatizó la inserción y consulta de datos usando scripts en Python.
 - Consultas SQL complejas permitieron generar rankings y estadísticas por categoría.
+- Se realizó una limpieza y un estudio de los datos antes de proceder a realizar las consultas para obtener la información necesaria para cada premio.
 
 ### 🎨 5. **Visualización**
 - Los resultados fueron visualizados en **Canva** mediante gráficos, tablas y líneas de tiempo para una presentación clara e interactiva.
@@ -83,7 +84,7 @@ Este hallazgo pone de manifiesto una importante brecha de género en la industri
 
 ## 👥 Equipo
 
-- **Noemí** – Coordinación y presentación general
+- **Noemi** – Coordinación y presentación general
 - **Lucía** – Categoría Artista Más Popular
 - **Montse** – Categoría Artista Revelación
 - **Gemma** – Categoría Artista con Más Productividad Musical
