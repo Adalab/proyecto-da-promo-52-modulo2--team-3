@@ -63,7 +63,7 @@ Además, se incorpora una **perspectiva de género** para analizar la representa
 
 ---
 
-## 👩‍🎤 Perspectiva de género
+### 👩‍🎤 Perspectiva de género
 
 Se ha buscado incorporar perspectiva de género en el análisis.  
 🔍 **Conclusión clave:**   
