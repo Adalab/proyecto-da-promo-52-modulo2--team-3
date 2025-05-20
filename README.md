@@ -73,6 +73,7 @@ Se ha buscado incorporar perspectiva de género en el análisis.
 Este hallazgo pone de manifiesto una importante brecha de género en la industria musical del período 2003–2007, en especial en los generos bachata y reggaeton.
 
 👤 Presentado por: *Eylin*
+
 ---
 
 ## 📈 Visualización del proyecto
@@ -89,14 +90,5 @@ Este hallazgo pone de manifiesto una importante brecha de género en la industri
 - **Montse** – Categoría Artista Revelación
 - **Gemma** – Categoría Artista con Más Productividad Musical
 - **Eylin** – Conclusiones generales y enfoque de género
-
----
-
-## 📝 Pendientes del proyecto
-
-- [ ] Redacción de este README ✔️  
-- [ ] Subir gráficos a Canva basados en conclusiones  
-- [ ] Incorporar fotos de integrantes del equipo y artistas ganadores  
-- [ ] Subir resultados individuales al repositorio de Git  
 
 ---
